@@ -91,6 +91,23 @@
       ]
     },
     {
+      "name": "BoothVRChat-SAIL",
+      "url": "https://booth.pm/ja/search/%E3%82%BB%E3%83%BC%E3%83%AB?sort=new&tags%5B%5D=VRChat",
+      "handler": "booth",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": [
+        "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+      ],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
+    },
+    {
       "name": "CampFireVRChat",
       "url": "https://camp-fire.jp/projects/search?word=VRChat",
       "handler": "general",
@@ -107,22 +124,6 @@
         "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
         "\\?token="
       ]
-    },
-    {
-      "name": "LRCHub-PR",
-      "url": "https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&sort=created&order=desc&per_page=50",
-      "handler": "github_search",
-      "rss_items": 50,
-      "interval_sec": 300,
-      "user_agent": "SiteRSSBot (LRCHub PR monitor)",
-      "include_regex": [
-        "^https://github\\.com/LRCHub/[^/]+/pull/\\d+$"
-      ],
-      "exclude_regex": [
-        "^https://api\\.github\\.com/"
-      ],
-      "tz": "Asia/Tokyo",
-      "rss_time_tz": "local"
     }
   ]
 }

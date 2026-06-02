@@ -8,7 +8,7 @@
   "rss_items_default": 0,
   "site_interval_default": 60,
   "site_manifest_path": "Site.json",
-  "site_manifest_ttl_sec": 43200,
+  "site_manifest_ttl_sec": 200,
   "poll_interval_sec": 60,
   "rss_output_dir": "RSS",
   "readme_path": "RSS/README.md",
