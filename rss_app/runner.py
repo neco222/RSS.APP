@@ -31,8 +31,8 @@ class Runner:
         branch = gh.get("branch", "main")
         if not token or not repo:
             raise SystemExit(
-                "Set github.repo and a GitHub token via config github.token, "
-                "RSS_GITHUB_TOKEN, or GITHUB_TOKEN."
+                "Set github.repo and a GitHub token via config github.token "
+                "or GITHUB_TOKEN."
             )
         self.gh = GitHubClient(token=token, repo=repo, branch=branch)
 
@@ -43,9 +43,10 @@ class Runner:
         self.readme_path = cfg.get("readme_path", "Read.me")
         self.state_path = cfg.get("state_path", "state.json")
         self.daily_flag_path = cfg.get("daily_flag_path", "00.txtt")
+        self.rss_output_dir = str(cfg.get("rss_output_dir", "RSS")).strip().strip("/\\") or "RSS"
         self.site_manifest_path = cfg.get("site_manifest_path", "Site.json")
         self.site_manifest_ttl = int(cfg.get("site_manifest_ttl_sec", 43200))
-        self.readme_log_header = cfg.get("readme_log_header", "## 更新ログ\n")
+        self.readme_log_header = cfg.get("readme_log_header", "## Update log\n")
 
     def fetch(self, url: str, ua: t.Optional[str] = None) -> tuple[bytes, dict]:
         cur = url
@@ -222,7 +223,7 @@ class Runner:
                     print(result.message or f"[info] no update: {name}")
                     continue
 
-                rss_path = f"RSS/{safe_filename(name)}.rss"
+                rss_path = f"{self.rss_output_dir}/{safe_filename(name)}.rss"
                 sha, _content = self.gh.get_file(rss_path)
                 self.gh.put_file(
                     rss_path,

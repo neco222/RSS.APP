@@ -1,7 +1,7 @@
 # RSS.APP
 
 Python script for fetching site data, generating RSS feeds, and writing the
-generated files back to GitHub.
+generated files back to this GitHub repository.
 
 ## Structure
 
@@ -33,8 +33,13 @@ You can also force a handler in `Site.json`:
 The workflow in `.github/workflows/rss.yml` runs `python rss.py --once` every
 15 minutes and can also be started manually from the Actions tab.
 
-For cross-repository writes, add a repository secret named `RSS_GITHUB_TOKEN`
-with permission to update the target repository in `config.github-actions.json`.
-If the workflow runs in the same repository it writes to, the built-in
-`GITHUB_TOKEN` fallback can be used.
+The default configuration writes generated files into the `RSS/` folder:
 
+- `RSS/*.rss`: generated feeds.
+- `RSS/state.json`: crawler state.
+- `RSS/00.txt`: daily run marker.
+- `RSS/README.md`: update log.
+
+Because the workflow writes to this same repository, it uses the built-in
+`GITHUB_TOKEN`. No personal access token is required unless branch protection
+or cross-repository writes are added later.

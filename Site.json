@@ -1,0 +1,128 @@
+{
+  "sites": [
+    {
+      "name": "VRChatStatus",
+      "url": "https://status.vrchat.com/history.rss",
+      "handler": "pass_through",
+      "interval_sec": 30,
+      "tz": "Asia/Tokyo",
+      "rss_time_tz": "local"
+    },
+    {
+      "name": "VRChatStatus-ManualGet",
+      "url": "https://status.vrchat.com/",
+      "handler": "general",
+      "interval_sec": 30
+    },
+    {
+      "name": "VRChatStatus.atom",
+      "url": "https://status.vrchat.com/history.atom",
+      "handler": "pass_through",
+      "rss_items": 5,
+      "interval_sec": 30,
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "BoothVRChat-ACC",
+      "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B5%E3%83%AA%E3%83%BC",
+      "handler": "booth",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": [
+        "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+      ],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
+    },
+    {
+      "name": "BoothVRChat-clothe",
+      "url": "https://booth.pm/ja/search/VRChat?sort=new&tags%5B%5D=%E8%A1%A3%E8%A3%85",
+      "handler": "booth",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": [
+        "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+      ],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
+    },
+    {
+      "name": "BoothVRChat-world",
+      "url": "https://booth.pm/ja/search/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89?sort=new&tags%5B%5D=VRChat&tags%5B%5D=World",
+      "handler": "booth",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": [
+        "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+      ],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
+    },
+    {
+      "name": "BoothVRChat-avater",
+      "url": "https://booth.pm/ja/items?sort=new&tags%5B%5D=3D%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC&tags%5B%5D=3d%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=VRChat&tags%5B%5D=%E3%82%A2%E3%83%90%E3%82%BF%E3%83%BC",
+      "handler": "booth",
+      "rss_items": 30,
+      "interval_sec": 120,
+      "include_regex": [
+        "^https://booth\\.pm/(?:ja/)?items/\\d+$"
+      ],
+      "exclude_regex": [
+        "/users/sign_in",
+        "/guide",
+        "/about",
+        "/carts",
+        "^https://booth\\.pm/$"
+      ]
+    },
+    {
+      "name": "CampFireVRChat",
+      "url": "https://camp-fire.jp/projects/search?word=VRChat",
+      "handler": "general",
+      "rss_items": 30,
+      "interval_sec": 43200,
+      "include_regex": [
+        "^https://camp-fire\\.jp/projects/\\d+(/view)?(?:\\?.*)?$",
+        "^https://camp-fire\\.jp/projects/view/\\d+(?:\\?.*)?$"
+      ],
+      "exclude_regex": [
+        "^https://camp-fire\\.jp/$",
+        "^https://camp-fire\\.jp/projects/(?:search|category)(?:\\?.*)?$",
+        "^https://camp-fire\\.jp/(?:project_rewards|creation|furusato|forsocialgood|machi-ya)(?:/|\\?.*)?$",
+        "^https://camp-fire\\.jp/(?:help|academy|community|channels|company|privacy|term|news|lp)(?:/|\\?.*)?$",
+        "\\?token="
+      ]
+    },
+    {
+      "name": "LRCHub-PR",
+      "url": "https://api.github.com/search/issues?q=org%3ALRCHub+is%3Apr+is%3Aopen&sort=created&order=desc&per_page=50",
+      "handler": "github_search",
+      "rss_items": 50,
+      "interval_sec": 300,
+      "user_agent": "SiteRSSBot (LRCHub PR monitor)",
+      "include_regex": [
+        "^https://github\\.com/LRCHub/[^/]+/pull/\\d+$"
+      ],
+      "exclude_regex": [
+        "^https://api\\.github\\.com/"
+      ],
+      "tz": "Asia/Tokyo",
+      "rss_time_tz": "local"
+    }
+  ]
+}

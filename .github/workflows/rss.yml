@@ -28,7 +28,5 @@ jobs:
 
       - name: Update feeds
         env:
-          RSS_GITHUB_TOKEN: ${{ secrets.RSS_GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ github.token }}
         run: python rss.py --once --config config.github-actions.json
-
