@@ -58,6 +58,7 @@ class SiteHandler:
     name = "base"
     aliases: tuple[str, ...] = ()
     uses_page_hash = True
+    requires_pre_fetch = True
 
     def supports(self, value: str) -> bool:
         key = value.strip().lower()
@@ -72,4 +73,3 @@ class SiteHandler:
 
 def compile_patterns(values: t.Iterable[t.Any]) -> list[re.Pattern[str]]:
     return [re.compile(str(p)) for p in values if p]
-

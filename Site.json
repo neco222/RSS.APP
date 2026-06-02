@@ -108,6 +108,20 @@
       ]
     },
     {
+      "name": "BoothVRChat-X",
+      "url": "https://x.com/BoothVRChat",
+      "handler": "twitter",
+      "rss_url": "https://rsshub.app/twitter/user/BoothVRChat",
+      "rss_items": 30,
+      "interval_sec": 300,
+      "tz": "Asia/Tokyo",
+      "rss_time_tz": "local",
+      "min_like_count": 0,
+      "min_retweet_count": 0,
+      "min_reply_count": 0,
+      "min_quote_count": 0
+    },
+    {
       "name": "CampFireVRChat",
       "url": "https://camp-fire.jp/projects/search?word=VRChat",
       "handler": "general",

@@ -19,7 +19,7 @@ from rss_app.core import (
     safe_filename,
     sha256_hex,
 )
-from rss_app.sites import select_handler
+from rss_app.sites import get_requested_handler, select_handler
 from rss_app.sites.base import HandlerContext
 
 
@@ -184,11 +184,21 @@ class Runner:
 
             site_ua = site.get("user_agent") or self.ua
             try:
-                body, headers = self.fetch(url, ua=site_ua)
+                requested_handler = get_requested_handler(site)
             except Exception as e:
-                print(f"[error] fetch failed for {name}: {e}", file=sys.stderr)
+                print(f"[error] handler selection failed for {name}: {e}", file=sys.stderr)
                 entry_state["last_checked"] = now_local.isoformat()
                 continue
+
+            body = b""
+            headers: dict = {}
+            if requested_handler is None or requested_handler.requires_pre_fetch:
+                try:
+                    body, headers = self.fetch(url, ua=site_ua)
+                except Exception as e:
+                    print(f"[error] fetch failed for {name}: {e}", file=sys.stderr)
+                    entry_state["last_checked"] = now_local.isoformat()
+                    continue
 
             rss_time_tz = str(site.get("rss_time_tz", "utc")).lower()
             ctx = HandlerContext(
@@ -208,7 +218,7 @@ class Runner:
             )
 
             try:
-                handler = select_handler(ctx)
+                handler = requested_handler or select_handler(ctx)
                 page_hash: t.Optional[str] = None
                 if handler.uses_page_hash:
                     page_hash = sha256_hex(body)
