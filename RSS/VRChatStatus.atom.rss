@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:status.vrchat.com,2005:/history</id>
+  <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
+  <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
+  <title>VRChat Status - Incident History</title>
+  <updated>2026-06-02T12:49:14Z</updated>
+  <author>
+    <name>VRChat</name>
+  </author>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30293279</id>
+    <published>2026-05-25T03:01:25Z</published>
+    <updated>2026-05-25T03:01:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/r11h3jky8fnh"/>
+    <title>API Outage</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;03:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;02:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing our systems recover and are monitoring to ensure they remain stable &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;00:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30264053</id>
+    <published>2026-05-24T05:03:09Z</published>
+    <updated>2026-05-24T05:03:09Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/zx1ctk46s6jk"/>
+    <title>Database Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;05:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;18:15&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance at this time. All systems will still be operational during this maintenance. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30281936</id>
+    <published>2026-05-24T04:59:11Z</published>
+    <updated>2026-05-24T04:59:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/szrzs1zc1l49"/>
+    <title>API Outage</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;04:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;03:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing our systems recover and are monitoring to ensure they remain stable &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;24&lt;/var&gt;, &lt;var data-var='time'&gt;01:08&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently investigating an increase in errors and latency with our API &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30143562</id>
+    <published>2026-05-19T17:00:07Z</published>
+    <updated>2026-05-19T17:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/vy13d9gkw0wt"/>
+    <title>Database Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;11:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance at this time. All systems will still be operational during this maintenance. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30006780</id>
+    <published>2026-05-07T16:00:07Z</published>
+    <updated>2026-05-07T16:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/9r5mjn4w0cbg"/>
+    <title>Realtime Networking Maintenance (EU)</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;16:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;15:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;May &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;15:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. This may result in a short period where users are unable to join or create instances in this region, it should not result in any disconnects. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29209503</id>
+    <published>2026-04-30T09:00:07Z</published>
+    <updated>2026-04-30T09:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/fvpttt3fztkg"/>
+    <title>Realtime Networking Maintenance (EU)</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;07:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29603719</id>
+    <published>2026-04-15T15:00:07Z</published>
+    <updated>2026-04-15T15:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/1gpfms4rny8s"/>
+    <title>Realtime Networking Maintenance (USW + USE)</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29603704</id>
+    <published>2026-04-14T13:00:07Z</published>
+    <updated>2026-04-14T13:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/826lvr2dttq9"/>
+    <title>Realtime Networking Maintenance (EU)</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;13:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;14&lt;/var&gt;, &lt;var data-var='time'&gt;09:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29552222</id>
+    <published>2026-04-13T19:29:53Z</published>
+    <updated>2026-04-13T19:29:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/hyyf12cbhxl4"/>
+    <title>API Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;19:29&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;18:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;17:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing API maintenance at this time. No downtime expected, but Social and Search may be affected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29456227</id>
+    <published>2026-04-08T14:00:07Z</published>
+    <updated>2026-04-08T14:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/xp54xwpk4gx3"/>
+    <title>Friends List Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list may be affected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29209490</id>
+    <published>2026-03-31T20:30:10Z</published>
+    <updated>2026-03-31T20:30:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/3h82p6747crq"/>
+    <title>Realtime Networking Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;20:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;31&lt;/var&gt;, &lt;var data-var='time'&gt;18:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:13&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29312847</id>
+    <published>2026-03-30T17:30:07Z</published>
+    <updated>2026-03-30T17:30:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/dbzqw2xw18jx"/>
+    <title>API Upgrades (Friend/Social Systems)</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;20:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We are undergoing maintenance at this time. During this period, you might experience instability with VRChat's social systems. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29209476</id>
+    <published>2026-03-30T17:00:07Z</published>
+    <updated>2026-03-30T17:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/nhq9w3qscq3j"/>
+    <title>Realtime Networking Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;17:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;30&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;15:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29065060</id>
+    <published>2026-03-19T14:49:33Z</published>
+    <updated>2026-03-19T14:49:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/v7wpqw6hnq75"/>
+    <title>Friends List Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;14:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;17&lt;/var&gt;, &lt;var data-var='time'&gt;18:54&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list may be affected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/29015493</id>
+    <published>2026-03-16T02:12:58Z</published>
+    <updated>2026-03-16T02:12:58Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/7pwk87c8fpvh"/>
+    <title>API Outage</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;02:12&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are continuing to monitor for any further issues. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - A fix has been implemented and VRChat services are back online. We are monitoring as users log in. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;23:39&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - The core issue causing the outage has been identified and we are working to resolve it. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We have identified the issue and are working with providers to resolve our outage as quickly as possible. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;21:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We are continuing to investigate the issues causing the ongoing outage. There is currently no estimate of time to fix. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;19:19&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We're currently seeing high amounts of latency and errors in our API systems &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28925806</id>
+    <published>2026-03-12T17:30:07Z</published>
+    <updated>2026-03-12T17:30:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/yjmwqhqm8dmw"/>
+    <title>Friends List Maintenence</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;17:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;17:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list may be affected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28874087</id>
+    <published>2026-03-09T12:58:21Z</published>
+    <updated>2026-03-09T12:58:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/q711vf9kpqy2"/>
+    <title>Friends List Maintenence</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;12:58&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;07:18&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list will be affected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28719483</id>
+    <published>2026-03-01T00:33:15Z</published>
+    <updated>2026-03-01T00:33:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/4s9bs1qkcxfp"/>
+    <title>API Outage</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and are starting to see our systems recover &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue and have a fix in progress &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;23:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently experiencing issues with our API systems &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28685048</id>
+    <published>2026-02-27T16:26:39Z</published>
+    <updated>2026-02-27T16:26:39Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/lvts9dfwbmk5"/>
+    <title>Friends List Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;21:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list will be affected. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28679417</id>
+    <published>2026-02-26T19:42:11Z</published>
+    <updated>2026-02-26T19:42:11Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/d3w41dglnrwx"/>
+    <title>API Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be maintenance occurring the API, this to resolve the issues observed during peak hours over this past weekend.&lt;br /&gt;&lt;br /&gt;Impact shouldn't be too bad and only take a portion of the time noted but might result in slow updates in the social menu and other related systems. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28668604</id>
+    <published>2026-02-26T11:00:07Z</published>
+    <updated>2026-02-26T11:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/wfg2339lmwns"/>
+    <title>Realtime Networking Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28656299</id>
+    <published>2026-02-25T14:00:07Z</published>
+    <updated>2026-02-25T14:00:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/34z1bcntzsyd"/>
+    <title>Realtime Networking Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;10:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28601863</id>
+    <published>2026-02-22T13:57:42Z</published>
+    <updated>2026-02-22T13:57:42Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/v5g4kfc0fn63"/>
+    <title>API Performance Issues</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;13:57&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;03:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28432047</id>
+    <published>2026-02-10T12:04:09Z</published>
+    <updated>2026-02-10T12:04:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/jj3f032w9fr0"/>
+    <title>Maintenance</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance for approximately 1-2 hours maximum at this time. Users may experience some presence latency. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/28408635</id>
+    <published>2026-02-08T06:59:32Z</published>
+    <updated>2026-02-08T06:59:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/dl78s1nb5dt0"/>
+    <title>API Performance Issues</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;06:59&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;06:25&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing api errors and latency returning to normal levels. We'll continue to monitor to ensure things remain stable. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:55&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're again investigating increased latency and error rates of our API systems. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;03:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing api errors and latency returning to normal levels. We'll continue to monitor to ensure things remain stable. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;02:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating increased latency and error rates of our API systems. &lt;/p&gt;</content>
+  </entry>
+</feed>
