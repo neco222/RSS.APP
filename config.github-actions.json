@@ -1,0 +1,17 @@
+{
+  "github": {
+    "token_env": "RSS_GITHUB_TOKEN",
+    "repo": "neco222/RSS",
+    "branch": "main"
+  },
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+  "rss_items_default": 0,
+  "site_interval_default": 60,
+  "site_manifest_path": "Site.json",
+  "site_manifest_ttl_sec": 43200,
+  "poll_interval_sec": 60,
+  "readme_path": "README.md",
+  "readme_log_header": "## 更新ログ\n",
+  "state_path": "state.json",
+  "daily_flag_path": "00.txt"
+}

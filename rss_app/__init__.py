@@ -1,0 +1,2 @@
+"""RSS feed generator package."""
+
