@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Jun 2026 16:24:13 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 20:56:21 +0000</pubDate>
+    <item>
+      <title>API Errors</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue and are working to fix it &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're seeing an increase in latency and errors from our API, currently investigating &lt;/p&gt;      </description>
+      <pubDate>Fri, 12 Jun 2026 05:56:21 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/7w5248c3fv6g</link>
+      <guid>https://status.vrchat.com/incidents/7w5248c3fv6g</guid>
+    </item>
     <item>
       <title>API Issues</title>
       <description>
@@ -214,15 +222,6 @@
       <pubDate>Sun, 22 Feb 2026 22:57:42 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/v5g4kfc0fn63</link>
       <guid>https://status.vrchat.com/incidents/v5g4kfc0fn63</guid>
-    </item>
-    <item>
-      <title>Maintenance</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;12:04&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;10&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt; 9&lt;/var&gt;, &lt;var data-var='time'&gt;23:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance for approximately 1-2 hours maximum at this time. Users may experience some presence latency. &lt;/p&gt;      </description>
-      <pubDate>Tue, 10 Feb 2026 21:04:09 +0900</pubDate>
-      <maintenanceEndDate>Tue, 10 Feb 2026 13:00:00 +0000</maintenanceEndDate>
-      <link>https://status.vrchat.com/incidents/jj3f032w9fr0</link>
-      <guid>https://status.vrchat.com/incidents/jj3f032w9fr0</guid>
     </item>
   </channel>
 </rss>
