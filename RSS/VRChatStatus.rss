@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Thu, 11 Jun 2026 20:56:21 +0000</pubDate>
+    <pubDate>Thu, 11 Jun 2026 22:46:10 +0000</pubDate>
     <item>
       <title>API Errors</title>
       <description>
-&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue and are working to fix it &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're seeing an increase in latency and errors from our API, currently investigating &lt;/p&gt;      </description>
-      <pubDate>Fri, 12 Jun 2026 05:56:21 +0900</pubDate>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;22:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;21:32&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We've stabilized our systems and are seeing things recover. Will continue monitoring &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:56&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We've identified the issue and are working to fix it &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;11&lt;/var&gt;, &lt;var data-var='time'&gt;20:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're seeing an increase in latency and errors from our API, currently investigating &lt;/p&gt;      </description>
+      <pubDate>Fri, 12 Jun 2026 07:46:10 +0900</pubDate>
       <link>https://status.vrchat.com/incidents/7w5248c3fv6g</link>
       <guid>https://status.vrchat.com/incidents/7w5248c3fv6g</guid>
     </item>
