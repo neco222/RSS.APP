@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 12 Jun 2026 08:49:26 +0000</pubDate>
+    <pubDate>Fri, 12 Jun 2026 12:29:38 +0000</pubDate>
     <item>
       <title>Realtime Networking Maintenance (USW)</title>
       <description>
-&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance to specific realtime networking servers during this time. Expect one disconnect at most in instances on the affected region during the maintenance window. &lt;/p&gt;      </description>
-      <pubDate>Fri, 12 Jun 2026 17:35:07 +0900</pubDate>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;09:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;08:31&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance to specific realtime networking servers during this time. Expect one disconnect at most in instances on the affected region during the maintenance window. &lt;/p&gt;      </description>
+      <pubDate>Fri, 12 Jun 2026 18:35:07 +0900</pubDate>
       <maintenanceEndDate>Fri, 12 Jun 2026 09:35:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/yw6xsp109g48</link>
       <guid>https://status.vrchat.com/incidents/yw6xsp109g48</guid>
