@@ -4,12 +4,12 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 16 Jun 2026 16:09:28 +0000</pubDate>
+    <pubDate>Tue, 16 Jun 2026 19:19:30 +0000</pubDate>
     <item>
       <title>API Maintenance</title>
       <description>
-&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be doing some infrastructure maintenance and monitoring the change afterwards. No impact is expected. &lt;/p&gt;      </description>
-      <pubDate>Tue, 16 Jun 2026 21:00:08 +0900</pubDate>
+&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be doing some infrastructure maintenance and monitoring the change afterwards. No impact is expected. &lt;/p&gt;      </description>
+      <pubDate>Wed, 17 Jun 2026 03:49:12 +0900</pubDate>
       <maintenanceEndDate>Tue, 16 Jun 2026 16:00:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/6mqlxqlhdb5s</link>
       <guid>https://status.vrchat.com/incidents/6mqlxqlhdb5s</guid>
