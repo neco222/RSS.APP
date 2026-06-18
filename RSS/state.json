@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "98dec2969f773a02e17a795eb5959247b7a96743",
-    "fetched_at": "2026-06-18T23:23:36.747361+09:00",
+    "fetched_at": "2026-06-19T02:42:01.718103+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -146,39 +146,39 @@
   },
   "sites": {
     "VRChatStatus": {
-      "last_checked": "2026-06-18T23:23:36.747958+09:00",
-      "hash": "b53cb889c503de2193fb0966d1aee953e92436e690c22fe03f1f00c4e3ee04b5",
-      "last_updated": "2026-06-18T23:23:36.747958+09:00"
+      "last_checked": "2026-06-19T02:42:01.722397+09:00",
+      "hash": "d5840cc7e4c610ff135955481de2ac897365dec8404874353ab9e2a3685d397d",
+      "last_updated": "2026-06-19T02:42:01.722397+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "last_checked": "2026-06-18T23:23:38.110653+09:00",
-      "hash": "0eb7f95da4f8a35ba5a7d6e2626756e723b61bd89abc49aa097a189baacb6714",
-      "last_updated": "2026-06-18T23:23:38.110653+09:00"
+      "last_checked": "2026-06-19T02:42:03.298342+09:00",
+      "hash": "81a529cab3a79b7d5c7bef89c97937d0be72f8182576080d919c63e4772c670e",
+      "last_updated": "2026-06-19T02:42:03.298342+09:00"
     },
     "VRChatStatus.atom": {
-      "last_checked": "2026-06-18T23:23:39.279428+09:00",
-      "hash": "69226550fdf36a9f3c60ea73b408fd6380a7411b528b4d4ee19acd3be226170a",
-      "last_updated": "2026-06-18T23:23:39.279428+09:00"
+      "last_checked": "2026-06-19T02:42:04.418421+09:00",
+      "hash": "d2a28fb83e747e4ae34a3c0ca848e255a6e7b77a185648e793f40490c7315afa",
+      "last_updated": "2026-06-19T02:42:04.418421+09:00"
     },
     "BoothVRChat-ACC": {
-      "last_checked": "2026-06-18T23:23:40.423534+09:00",
-      "hash": "4e5133f4b2b9f6161a23c6137a5b44df73b2b1647d3c21c7fc07a56dbc240be9",
-      "last_updated": "2026-06-18T23:23:40.423534+09:00"
+      "last_checked": "2026-06-19T02:42:05.553192+09:00",
+      "hash": "ba8dd8a1fc8f9200937cb20a1cb6a2135395d244307a5a5a7b1bc9ec3c7a269d",
+      "last_updated": "2026-06-19T02:42:05.553192+09:00"
     },
     "BoothVRChat-clothe": {
-      "last_checked": "2026-06-18T23:24:14.120650+09:00",
-      "hash": "823ce41e827a13c00576d588b090286116defb84797efb9edcdb77aa67cf725b",
-      "last_updated": "2026-06-18T23:24:14.120650+09:00"
+      "last_checked": "2026-06-19T02:42:41.162968+09:00",
+      "hash": "828a5956624266965ddf325fef9c9ff493ccebaf54a817a4e3223d5d0fa1d1ee",
+      "last_updated": "2026-06-19T02:42:41.162968+09:00"
     },
     "BoothVRChat-world": {
-      "last_checked": "2026-06-18T23:24:47.923557+09:00",
-      "hash": "0aa4ac4a47e726824f1a6b993a60f40bc75b1af8b7e4af3a4f9e7593c6d949ca",
-      "last_updated": "2026-06-18T23:24:47.923557+09:00"
+      "last_checked": "2026-06-19T02:43:15.854648+09:00",
+      "hash": "266ac8eaecd50a26d899d057cc4c871e2b129ae9b11ce4c4686e8de7cbedbd21",
+      "last_updated": "2026-06-19T02:43:15.854648+09:00"
     },
     "BoothVRChat-avater": {
-      "last_checked": "2026-06-18T23:25:19.090466+09:00",
-      "hash": "88df756f95abf8e2a9ce0a2f99eaf94be9d51f938af97b8d2ed58739174f5e98",
-      "last_updated": "2026-06-18T23:25:19.090466+09:00"
+      "last_checked": "2026-06-19T02:43:52.158471+09:00",
+      "hash": "b0be836d20b8bd104dd214a2fdd7d3b96fd3aed37370ee19b32ea63d42f053e2",
+      "last_updated": "2026-06-19T02:43:52.158471+09:00"
     },
     "CampFireVRChat": {
       "last_checked": "2026-06-18T20:03:17.954069+09:00",
@@ -189,12 +189,12 @@
       "last_checked": "2026-06-02T22:34:01.443156+09:00"
     },
     "BoothVRChat-SAIL": {
-      "last_checked": "2026-06-18T23:25:53.222109+09:00",
-      "hash": "7e88511bb264b7f41471d5e567fae936ba1b94cdda98ebd7ed0c627a75671c14",
-      "last_updated": "2026-06-18T23:25:53.222109+09:00"
+      "last_checked": "2026-06-19T02:44:28.589073+09:00",
+      "hash": "bd134840b97f82fe9341741b52416b8cad4dab01adb8e15267eeecaaff978736",
+      "last_updated": "2026-06-19T02:44:28.589073+09:00"
     },
     "BoothVRChat-X": {
-      "last_checked": "2026-06-18T23:26:21.873017+09:00"
+      "last_checked": "2026-06-19T02:44:58.581714+09:00"
     }
   }
 }
