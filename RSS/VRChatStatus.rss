@@ -4,7 +4,16 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Fri, 19 Jun 2026 16:49:39 +0000</pubDate>
+    <pubDate>Fri, 19 Jun 2026 19:21:21 +0000</pubDate>
+    <item>
+      <title>Database Maintenance</title>
+      <description>
+&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; - &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;18:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance at this time. All systems will still be operational during this maintenance. &lt;/p&gt;      </description>
+      <pubDate>Tue, 23 Jun 2026 21:00:00 +0900</pubDate>
+      <maintenanceEndDate>Tue, 23 Jun 2026 14:00:00 +0000</maintenanceEndDate>
+      <link>https://status.vrchat.com/incidents/mqdq5sm9j18g</link>
+      <guid>https://status.vrchat.com/incidents/mqdq5sm9j18g</guid>
+    </item>
     <item>
       <title>API Maintenance</title>
       <description>
@@ -214,15 +223,6 @@
       <maintenanceEndDate>Thu, 26 Feb 2026 22:00:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/d3w41dglnrwx</link>
       <guid>https://status.vrchat.com/incidents/d3w41dglnrwx</guid>
-    </item>
-    <item>
-      <title>Realtime Networking Maintenance</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;25&lt;/var&gt;, &lt;var data-var='time'&gt;23:35&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;      </description>
-      <pubDate>Thu, 26 Feb 2026 20:00:07 +0900</pubDate>
-      <maintenanceEndDate>Thu, 26 Feb 2026 11:00:00 +0000</maintenanceEndDate>
-      <link>https://status.vrchat.com/incidents/wfg2339lmwns</link>
-      <guid>https://status.vrchat.com/incidents/wfg2339lmwns</guid>
     </item>
   </channel>
 </rss>
