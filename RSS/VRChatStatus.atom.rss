@@ -4,10 +4,26 @@
   <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
   <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
   <title>VRChat Status - Incident History</title>
-  <updated>2026-07-07T11:49:32Z</updated>
+  <updated>2026-07-07T15:34:31Z</updated>
   <author>
     <name>VRChat</name>
   </author>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30817892</id>
+    <published>2026-07-08T08:00:00Z</published>
+    <updated>2026-07-07T13:49:40Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/89hmscbd9sls"/>
+    <title>Realtime Networking Maintenance (JP)</title>
+    <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Jul &lt;var data-var='date'&gt;8&lt;/var&gt;, &lt;var data-var='time'&gt;08:00&lt;/var&gt; - &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/30817869</id>
+    <published>2026-07-07T13:50:08Z</published>
+    <updated>2026-07-07T13:50:08Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/nq8416lgnbyw"/>
+    <title>Realtime Networking Maintenance (USE, USW)</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jul &lt;var data-var='date'&gt; 7&lt;/var&gt;, &lt;var data-var='time'&gt;13:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/30623302</id>
     <published>2026-06-23T14:00:18Z</published>
@@ -191,21 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/4s9bs1qkcxfp"/>
     <title>API Outage</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:33&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - This incident has been resolved. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:09&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We've implemented a fix and are starting to see our systems recover &lt;/p&gt; &lt;p&gt; &lt;small&gt;Mar &lt;var data-var='date'&gt; 1&lt;/var&gt;, &lt;var data-var='time'&gt;00:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - We have identified the issue and have a fix in progress &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;28&lt;/var&gt;, &lt;var data-var='time'&gt;23:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently experiencing issues with our API systems &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.vrchat.com,2005:Incident/28685048</id>
-    <published>2026-02-27T16:26:39Z</published>
-    <updated>2026-02-27T16:26:39Z</updated>
-    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/lvts9dfwbmk5"/>
-    <title>Friends List Maintenance</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;16:26&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;27&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;21:38&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list will be affected. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.vrchat.com,2005:Incident/28679417</id>
-    <published>2026-02-26T19:42:11Z</published>
-    <updated>2026-02-26T19:42:11Z</updated>
-    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/d3w41dglnrwx"/>
-    <title>API Maintenance</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;19:42&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:30&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Feb &lt;var data-var='date'&gt;26&lt;/var&gt;, &lt;var data-var='time'&gt;14:16&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - There will be maintenance occurring the API, this to resolve the issues observed during peak hours over this past weekend.&lt;br /&gt;&lt;br /&gt;Impact shouldn't be too bad and only take a portion of the time noted but might result in slow updates in the social menu and other related systems. &lt;/p&gt;</content>
   </entry>
 </feed>
