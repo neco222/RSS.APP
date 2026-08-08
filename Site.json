@@ -92,7 +92,7 @@
     },
     {
       "name": "BoothVRChat-SAIL",
-      "url": "https://booth.pm/ja/search/%E3%82%BB%E3%83%BC%E3%83%AB?sort=new&tags%5B%5D=VRChat",
+      "url": "https://booth.pm/ja/search/%E3%82%BB%E3%83%BC%E3%83%AB?tags%5B%5D=VRChat",
       "handler": "booth",
       "rss_items": 30,
       "interval_sec": 120,
