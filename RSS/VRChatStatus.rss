@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 19 Aug 2026 10:49:28 +0000</pubDate>
+    <pubDate>Wed, 19 Aug 2026 12:47:59 +0000</pubDate>
+    <item>
+      <title>Avatar Load Issues</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:47&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Identified&lt;/strong&gt; - The issue has been identified and a fix has been rolled out, it will take a bit of time for things to completely return to normal &lt;/p&gt; &lt;p&gt; &lt;small&gt;Aug &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;12:46&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're aware of and are investigating issues resulting in avatars failing to load &lt;/p&gt;      </description>
+      <pubDate>Wed, 19 Aug 2026 21:47:59 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/hfdqz5vfnmnm</link>
+      <guid>https://status.vrchat.com/incidents/hfdqz5vfnmnm</guid>
+    </item>
     <item>
       <title>Database Maintenance</title>
       <description>
@@ -214,15 +222,6 @@
       <maintenanceEndDate>Mon, 13 Apr 2026 20:00:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/hyyf12cbhxl4</link>
       <guid>https://status.vrchat.com/incidents/hyyf12cbhxl4</guid>
-    </item>
-    <item>
-      <title>Friends List Maintenance</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 8&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt; 2&lt;/var&gt;, &lt;var data-var='time'&gt;21:02&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing maintenance during this time. VRChat will be online, but the Social/Friends list may be affected. &lt;/p&gt;      </description>
-      <pubDate>Wed, 08 Apr 2026 23:00:07 +0900</pubDate>
-      <maintenanceEndDate>Wed, 08 Apr 2026 14:00:00 +0000</maintenanceEndDate>
-      <link>https://status.vrchat.com/incidents/xp54xwpk4gx3</link>
-      <guid>https://status.vrchat.com/incidents/xp54xwpk4gx3</guid>
     </item>
   </channel>
 </rss>
