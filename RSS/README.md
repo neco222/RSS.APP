@@ -1,4 +1,13 @@
 ## Update log
+- 2026-08-26 08:31:14 JST - VRChatStatus
+- 2026-08-26 08:31:16 JST - VRChatStatus-ManualGet
+- 2026-08-26 08:31:18 JST - VRChatStatus.atom
+- 2026-08-26 08:31:20 JST - BoothVRChat-ACC
+- 2026-08-26 08:31:43 JST - BoothVRChat-clothe
+- 2026-08-26 08:32:08 JST - BoothVRChat-world
+- 2026-08-26 08:32:29 JST - BoothVRChat-avater
+- 2026-08-26 08:32:51 JST - BoothVRChat-SAIL
+
 - 2026-08-26 07:57:41 JST - VRChatStatus-ManualGet
 - 2026-08-26 07:57:42 JST - BoothVRChat-ACC
 - 2026-08-26 07:58:18 JST - BoothVRChat-clothe
