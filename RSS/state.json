@@ -1,7 +1,7 @@
 {
   "site_manifest_cache": {
     "sha": "e9a209b53952defc2860408dd3d0dff7fc86d126",
-    "fetched_at": "2026-08-26T14:37:56.751996+09:00",
+    "fetched_at": "2026-08-26T15:17:57.369591+09:00",
     "sites": [
       {
         "name": "VRChatStatus",
@@ -146,55 +146,55 @@
   },
   "sites": {
     "VRChatStatus": {
-      "last_checked": "2026-08-26T14:37:56.756195+09:00",
+      "last_checked": "2026-08-26T15:17:57.384431+09:00",
       "hash": "7e4df531b0e531a55d05246c60ea343880d8ebb90e33b0785a1580e69fcb489c",
       "last_updated": "2026-08-26T14:37:56.756195+09:00"
     },
     "VRChatStatus-ManualGet": {
-      "last_checked": "2026-08-26T14:37:58.482747+09:00",
-      "hash": "a8d654bdaa5f8fcff24cdd4b01a3b0042cd6de9120d0b1213d31f92f6689ad39",
-      "last_updated": "2026-08-26T14:37:58.482747+09:00"
+      "last_checked": "2026-08-26T15:17:57.800577+09:00",
+      "hash": "98fb216e0f751c09b4f22486824fefd1c7320e425233a76715a4021d52a43e6c",
+      "last_updated": "2026-08-26T15:17:57.800577+09:00"
     },
     "VRChatStatus.atom": {
-      "last_checked": "2026-08-26T14:37:59.946715+09:00",
+      "last_checked": "2026-08-26T15:17:59.516117+09:00",
       "hash": "33ed60d7e674e3d5c38ec6f04eceee1c8487f05d07d13502829dbc9199f4a27d",
       "last_updated": "2026-08-26T14:37:59.946715+09:00"
     },
     "BoothVRChat-ACC": {
-      "last_checked": "2026-08-26T14:38:01.204480+09:00",
-      "hash": "bb7134ccd3085f255f3d59596ed05c9203635553d0294f8b6e229134c867c6e3",
-      "last_updated": "2026-08-26T14:38:01.204480+09:00"
+      "last_checked": "2026-08-26T15:17:59.918779+09:00",
+      "hash": "08c85622a29cee8c0134fb3741f5d191b591c199f1ea566b0eac2ee860b1f172",
+      "last_updated": "2026-08-26T15:17:59.918779+09:00"
     },
     "BoothVRChat-clothe": {
-      "last_checked": "2026-08-26T14:38:27.489797+09:00",
-      "hash": "113a23c9aaef3bf0a4dc4104003f8b23d42c6406fad1d593c00560513d604b82",
-      "last_updated": "2026-08-26T14:38:27.489797+09:00"
+      "last_checked": "2026-08-26T15:18:31.777423+09:00",
+      "hash": "e2c08eb7eec0b75b2479396373638cbdde39979590ae90fa919ffea3b878b537",
+      "last_updated": "2026-08-26T15:18:31.777423+09:00"
     },
     "BoothVRChat-world": {
-      "last_checked": "2026-08-26T14:38:57.564171+09:00",
-      "hash": "d3a94e59fc2c84c89d76b848a7ff9dc83860bec3adb24416b00f1a813f3fdbc2",
-      "last_updated": "2026-08-26T14:38:57.564171+09:00"
+      "last_checked": "2026-08-26T15:19:04.933327+09:00",
+      "hash": "546082b4953ee3fe7ff81b669321b81df7151d19afcd60fcda6c2bd44d640bfe",
+      "last_updated": "2026-08-26T15:19:04.933327+09:00"
     },
     "BoothVRChat-avater": {
-      "last_checked": "2026-08-26T14:39:30.413672+09:00",
-      "hash": "888e22d02b0fe30bf1a8fd0468e3e452679abdd2200b25e60abd242013aee603",
-      "last_updated": "2026-08-26T14:39:30.413672+09:00"
+      "last_checked": "2026-08-26T15:19:32.754733+09:00",
+      "hash": "d57997b694bcc7f62ab2c0014e4ce770bcaee05e248a1d85eff9d46216858056",
+      "last_updated": "2026-08-26T15:19:32.754733+09:00"
     },
     "CampFireVRChat": {
-      "last_checked": "2026-08-26T03:06:48.734915+09:00",
-      "hash": "db95ef383c15d6ab804739b20c3958050982e538468d106ba47a0bfe95d3255d",
-      "last_updated": "2026-08-26T03:06:48.734915+09:00"
+      "last_checked": "2026-08-26T15:20:42.477231+09:00",
+      "hash": "4e7b1fc784544f74c66ded449016be374f31974342a219dca30c4f4ad3fadbd2",
+      "last_updated": "2026-08-26T15:20:42.477231+09:00"
     },
     "LRCHub-PR": {
       "last_checked": "2026-06-02T22:34:01.443156+09:00"
     },
     "BoothVRChat-SAIL": {
-      "last_checked": "2026-08-26T14:40:00.757870+09:00",
-      "hash": "d05ecbe08dfdc948f63d5815f7ec499388381d0e2c3832348e580197b9116d4b",
-      "last_updated": "2026-08-26T14:40:00.757870+09:00"
+      "last_checked": "2026-08-26T15:20:02.530595+09:00",
+      "hash": "ad35e89dd657150718b21f6df65119217f16e5eb7c1e6243dd3c57f4eb1a227e",
+      "last_updated": "2026-08-26T15:20:02.530595+09:00"
     },
     "BoothVRChat-X": {
-      "last_checked": "2026-08-26T14:40:35.524108+09:00"
+      "last_checked": "2026-08-26T15:20:41.901826+09:00"
     }
   }
 }
