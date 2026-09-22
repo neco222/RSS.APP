@@ -4,7 +4,15 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Tue, 22 Sep 2026 19:49:56 +0000</pubDate>
+    <pubDate>Tue, 22 Sep 2026 22:50:47 +0000</pubDate>
+    <item>
+      <title>Steam Login Issues</title>
+      <description>
+&lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:50&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - We're seeing steam logins recovering to normal levels &lt;/p&gt; &lt;p&gt; &lt;small&gt;Sep &lt;var data-var='date'&gt;22&lt;/var&gt;, &lt;var data-var='time'&gt;22:41&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Investigating&lt;/strong&gt; - We're currently seeing failures in steam logins, other login methods are unaffected at this time &lt;/p&gt;      </description>
+      <pubDate>Wed, 23 Sep 2026 07:50:47 +0900</pubDate>
+      <link>https://status.vrchat.com/incidents/860mvdv6p7dv</link>
+      <guid>https://status.vrchat.com/incidents/860mvdv6p7dv</guid>
+    </item>
     <item>
       <title>API Performance Issues</title>
       <description>
@@ -212,15 +220,6 @@
       <maintenanceEndDate>Thu, 30 Apr 2026 09:00:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/fvpttt3fztkg</link>
       <guid>https://status.vrchat.com/incidents/fvpttt3fztkg</guid>
-    </item>
-    <item>
-      <title>Realtime Networking Maintenance (USW + USE)</title>
-      <description>
-&lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;15:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;11:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Apr &lt;var data-var='date'&gt;13&lt;/var&gt;, &lt;var data-var='time'&gt;17:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;      </description>
-      <pubDate>Thu, 16 Apr 2026 00:00:07 +0900</pubDate>
-      <maintenanceEndDate>Wed, 15 Apr 2026 15:00:00 +0000</maintenanceEndDate>
-      <link>https://status.vrchat.com/incidents/1gpfms4rny8s</link>
-      <guid>https://status.vrchat.com/incidents/1gpfms4rny8s</guid>
     </item>
   </channel>
 </rss>
