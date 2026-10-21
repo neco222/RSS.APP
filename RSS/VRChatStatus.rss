@@ -4,7 +4,7 @@
     <title>VRChat Status - Incident History</title>
     <link>https://status.vrchat.com</link>
     <description>Statuspage</description>
-    <pubDate>Wed, 21 Oct 2026 14:25:18 +0000</pubDate>
+    <pubDate>Wed, 21 Oct 2026 19:06:58 +0000</pubDate>
     <item>
       <title>Realtime Networking Maintenance (EU)</title>
       <description>
@@ -26,8 +26,8 @@
     <item>
       <title>Wiki Maintenence</title>
       <description>
-&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The VRChat wiki is currently under maintenance, we expect this to last under 24 hours &lt;/p&gt;      </description>
-      <pubDate>Wed, 21 Oct 2026 14:05:07 +0900</pubDate>
+&lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;17:44&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Update&lt;/strong&gt; - We're in the process of deploying an updated version of the wiki &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:05&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;21&lt;/var&gt;, &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - The VRChat wiki is currently under maintenance, we expect this to last under 24 hours &lt;/p&gt;      </description>
+      <pubDate>Thu, 22 Oct 2026 02:44:52 +0900</pubDate>
       <maintenanceEndDate>Fri, 23 Oct 2026 05:05:00 +0000</maintenanceEndDate>
       <link>https://status.vrchat.com/incidents/xg3n4y6875w6</link>
       <guid>https://status.vrchat.com/incidents/xg3n4y6875w6</guid>
