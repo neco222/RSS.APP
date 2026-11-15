@@ -4,7 +4,7 @@
   <link rel="alternate" type="text/html" href="https://status.vrchat.com"/>
   <link rel="self" type="application/atom+xml" href="https://status.vrchat.com/history.atom"/>
   <title>VRChat Status - Incident History</title>
-  <updated>2026-11-15T09:24:57Z</updated>
+  <updated>2026-11-15T16:03:07Z</updated>
   <author>
     <name>VRChat</name>
   </author>
@@ -15,6 +15,14 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/mcklc0nnt1j5"/>
     <title>Realtime Networking Maintenance (EU)</title>
     <content type="html">&lt;p&gt;&lt;strong&gt;THIS IS A SCHEDULED EVENT Nov &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;01:00&lt;/var&gt; - &lt;var data-var='time'&gt;05:00&lt;/var&gt; UTC&lt;/strong&gt;&lt;/p&gt; &lt;p&gt; &lt;small&gt;Oct &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;15:01&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be performing maintenance across our realtime networking servers during this time. Expect one or more disconnects in instances on affected regions during the maintenance window. &lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:status.vrchat.com,2005:Incident/31945931</id>
+    <published>2026-11-15T16:03:06Z</published>
+    <updated>2026-11-15T16:03:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/2spjdnvmsspb"/>
+    <title>Cloud Hosting Provider Service Interruption</title>
+    <content type="html">&lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;16:03&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Resolved&lt;/strong&gt; - The cloud hosting provider service interruption has been resolved.&lt;br /&gt;&lt;br /&gt;All systems are still operational. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Nov &lt;var data-var='date'&gt;15&lt;/var&gt;, &lt;var data-var='time'&gt;12:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Monitoring&lt;/strong&gt; - A cloud hosting provider is currently experiencing a service interruption. We have mitigated the issue and we are closely monitoring the situation to ensure stability.&lt;br /&gt;&lt;br /&gt;Between 11:10 and 12:01 UTC, users may have experienced timeouts, delayed friend requests and notifications, and problems uploading content.&lt;br /&gt;&lt;br /&gt;All systems are currently operational. &lt;/p&gt;</content>
   </entry>
   <entry>
     <id>tag:status.vrchat.com,2005:Incident/31886636</id>
@@ -199,13 +207,5 @@
     <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/mqdq5sm9j18g"/>
     <title>Database Maintenance</title>
     <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;14:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;23&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;19&lt;/var&gt;, &lt;var data-var='time'&gt;18:51&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be undergoing scheduled maintenance at this time. All systems will still be operational during this maintenance. &lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:status.vrchat.com,2005:Incident/30548475</id>
-    <published>2026-06-16T18:49:12Z</published>
-    <updated>2026-06-16T18:49:12Z</updated>
-    <link rel="alternate" type="text/html" href="https://status.vrchat.com/incidents/6mqlxqlhdb5s"/>
-    <title>API Maintenance</title>
-    <content type="html">&lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;18:49&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Completed&lt;/strong&gt; - The scheduled maintenance has been completed. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;16&lt;/var&gt;, &lt;var data-var='time'&gt;12:00&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;In progress&lt;/strong&gt; - Scheduled maintenance is currently in progress. We will provide updates as necessary. &lt;/p&gt; &lt;p&gt; &lt;small&gt;Jun &lt;var data-var='date'&gt;12&lt;/var&gt;, &lt;var data-var='time'&gt;18:20&lt;/var&gt; UTC&lt;/small&gt;&lt;br&gt; &lt;strong&gt;Scheduled&lt;/strong&gt; - We will be doing some infrastructure maintenance and monitoring the change afterwards. No impact is expected. &lt;/p&gt;</content>
   </entry>
 </feed>
